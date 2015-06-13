@@ -1,1 +1,9 @@
     #map { width:100%;height: 300px;}
+#tiles {
+	margin-top: 10px;
+}
+
+.tile {
+	margin-right: 30px;
+	height: 100px;
+}

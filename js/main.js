@@ -9,6 +9,8 @@ function findAddress (address) {
 	query.run(function (error, featureCollection) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
+		findNeighborhoodByLoc(featureCollection.features[0]);
+
 	});
 }
 
@@ -16,10 +18,24 @@ function findNeighborhood (name) {
 	var query = L.esri.Tasks.query({
 	    url:'http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Raleigh_Neighborhoods/FeatureServer/0'
 	});	
-	query.where("address='" + address + "'");
+	query.where("name='" + name + "'");
 	query.run(function (error, featureCollection) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
+		map.fitBounds(L.geoJson(featureCollection).getBounds());
+		
+	});	
+}
+
+function findNeighborhoodByLoc (loc) {
+	var query = L.esri.Tasks.query({
+	    url:'http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Raleigh_Neighborhoods/FeatureServer/0'
+	});	
+	query.contains(loc);
+	query.run(function (error, featureCollection) {
+		fGroup.clearLayers();
+		L.geoJson(featureCollection).addTo(fGroup);
+		map.fitBounds(L.geoJson(featureCollection).getBounds());
 	});	
 }
 
@@ -29,6 +45,9 @@ function typeaheadSelected (obj, data, dataset) {
 	console.log(dataset);
 	if (dataset === 'Addresses') {
 		findAddress(data.value);
+	}
+	if (dataset === 'Neighborhoods') {
+		findNeighborhood(data.value);
 	}
 }
 
@@ -59,7 +78,7 @@ function neighborhoodFilter (resp) {
 	var data = []
 	if (resp.features.length > 0) {
 		$(resp.features).each(function (i, f) {
-			data.push({value:f.attributes['NAME']});
+			data.push({value:f.attributes['name']});
 		});
 	}
 	return data;
