@@ -23,7 +23,7 @@ function findNeighborhood (name) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
 		map.fitBounds(L.geoJson(featureCollection).getBounds());
-		
+		$("#nName").text(featureCollection.features[0].properties.name);		
 	});	
 }
 
@@ -36,6 +36,8 @@ function findNeighborhoodByLoc (loc) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
 		map.fitBounds(L.geoJson(featureCollection).getBounds());
+		$("#nName").text(featureCollection.features[0].properties.name);		
+		
 	});	
 }
 
