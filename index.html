@@ -10,6 +10,9 @@
 
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="css/typeahead.css">
+ <!-- Load Leaflet from CDN-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.css" />
 
 <!-- Latest compiled and minified JavaScript -->
 
@@ -43,8 +46,9 @@
 
 <div class="container">
   <div class="well">
-    <input type="text" class="form-control" placeholder="Enter neighborhood or address"/>
+    <input id="search" type="text" class="form-control" placeholder="Enter neighborhood or address"/>
   </div>
+  <div id="map"></div>
 </div>
 
 
@@ -62,7 +66,12 @@
       <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-        
+        <script src="js/typeahead.min.js"></script>
+  <script src="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js"></script>
+
+  <!-- Load Esri Leaflet from CDN -->
+  <!-- we encourage you to replace 'latest' with a hardcode version number (like '1.0.0-rc.7') in production applications -->
+  <script src="//cdn.jsdelivr.net/leaflet.esri/latest/esri-leaflet.js"></script>        
         <script src="js/main.js"></script>
 </body>
 </html>

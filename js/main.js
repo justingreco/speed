@@ -1,15 +1,114 @@
-
-function getNeighborhoods () {
-	var url = 'data/neighborhoods.topojson';
-	if($('html').hasClass('geojson')) {
-		url = 'data/neighborhoods.geojson'
-	}
-	$.getJSON(url, function(json, textStatus) {
-
-		console.log(json);
-
+var map, fGroup;
+function findAddress (address) {
+	var query = L.esri.Tasks.query({
+	    url:'http://maps.raleighnc.gov/arcgis/rest/services/Addresses/MapServer/0'
+	});	
+	query.where("address='" + address + "'");
+	query.run(function (error, featureCollection) {
+		fGroup.clearLayers();
+		L.geoJson(featureCollection).addTo(fGroup);
 	});
 }
 
 
+function typeaheadSelected (obj, data, dataset) {
+	console.log(data.value);
+	console.log(dataset);
+	if (dataset === 'Addresses') {
+		findAddress(data.value);
+	}
+}
+
+function checkAbbreviations (value) {
+	var abbreviations = [{full: "Saint ", abbr: "St "}, 
+	{full: "North ", abbr:"N "}, 
+	{full: "South ", abbr: "S "},
+	{full: "West ", abbr:"W "},
+	{full: "East ", abbr: "E "},
+	{full: "Martin Luther King Jr", abbr: "MLK"}];
+	value = value.replace("'", "");
+	value = value.replace(".", "");
+	$.each(abbreviations, function (i, a) {
+		value = value.replace(new RegExp(a.abbr, 'gi'), a.full);
+	});
+	return value;
+}
+function addressFilter (resp) {
+	var data = []
+	if (resp.features.length > 0) {
+		$(resp.features).each(function (i, f) {
+			data.push({value:f.attributes['ADDRESS']});
+		});
+	}
+	return data;
+}
+function neighborhoodFilter (resp) {
+	var data = []
+	if (resp.features.length > 0) {
+		$(resp.features).each(function (i, f) {
+			data.push({value:f.attributes.NAME});
+		});
+	}
+	return data;
+}
+function setTypeahead (gj) {
+	var addresses = new Bloodhound({
+		datumTokenizer: function (datum) {
+	        return Bloodhound.tokenizers.whitespace(datum.value);
+	    },
+	    queryTokenizer: Bloodhound.tokenizers.whitespace,
+		remote: {
+			url: "http://maps.raleighnc.gov/arcgis/rest/services/Addresses/MapServer/0/query?orderByFields=ADDRESS&returnGeometry=false&outFields=ADDRESS&returnDistinctValues=false&f=json",
+			filter: addressFilter,
+			replace: function(url, uriEncodedQuery) {
+				  uriEncodedQuery = uriEncodedQuery.replace(/\./g, "");
+			      var newUrl = url + '&where=ADDRESSU like ' + "'" + checkAbbreviations(uriEncodedQuery).toUpperCase() +"%'";
+			      return newUrl;
+			}
+		}
+	});
+	var neighborhoods = new Bloodhound({
+		datumTokenizer: function (datum) {
+	        return Bloodhound.tokenizers.whitespace(datum.value);
+	    },
+	    queryTokenizer: Bloodhound.tokenizers.whitespace,
+	    local: $.map(gj.features, function (f) {
+	    	return {value: f.properties.name};
+	    })
+	});	
+	addresses.initialize();
+	neighborhoods.initialize();
+	$("#search").typeahead({hint: true, highlight: true, minLength: 1}, 
+		{name:'Addresses', 
+		displayKey:'value', 
+		source:addresses.ttAdapter(),
+		templates: {
+			header: "<h5>Addresses</h5>"
+		}},
+		{name:'Neighborhoods', 
+		displayKey:'value', 
+		source:neighborhoods.ttAdapter(),
+		templates: {
+			header: "<h5>Neighborhoods</h5>"
+		}}).on("typeahead:selected", typeaheadSelected);
+}
+
+function getNeighborhoods () {
+	var url = 'data/neighborhoods.geojson';
+
+	$.getJSON(url, function(json, textStatus) {
+
+		setTypeahead(json);
+
+	});
+}
+
+function createMap() {
+  map = L.map('map').setView([35.86, -78.63], 9);
+
+  L.esri.basemapLayer('Topographic').addTo(map);	
+  fGroup = new L.featureGroup().addTo(map);
+}
+
+createMap();
 getNeighborhoods();
