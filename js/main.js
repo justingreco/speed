@@ -1,5 +1,30 @@
-var map, fGroup;
+var map, fGroup, sGroup;
 
+function getCrashes (geom) {
+	var query = L.esri.Tasks.query({
+	    url:'	http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Crashes/FeatureServer/0'
+	});	
+	query.within(geom);
+	query.run(function (error, featureCollection) {
+		sGroup.clearLayers();
+		$("#crashes").html('<h1>' + featureCollection.features.length + '</h1>');
+		$("#projects").html('<h1>0/0</h1>');
+		$("#reports").html('<h1>1</h1>');				
+	});			
+}
+
+function getSensors (geom) {
+	var query = L.esri.Tasks.query({
+	    url:'http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Speed_sensor/FeatureServer/0'
+	});	
+	query.within(geom);
+	query.run(function (error, featureCollection) {
+		sGroup.clearLayers();
+		L.geoJson(featureCollection).addTo(sGroup);
+		var f = featureCollection.features[0];
+		$("#reading").html('<h1>Posted: ' + f.properties.PostedSpee + '</h1><h1>Max: ' + f.properties.MaxSpeed + '</h1><h1>Average: ' + f.properties.MeanSpeed + '</h1>')
+	});		
+}
 
 function findAddress (address) {
 	var query = L.esri.Tasks.query({
@@ -36,8 +61,9 @@ function findNeighborhoodByLoc (loc) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
 		map.fitBounds(L.geoJson(featureCollection).getBounds());
-		$("#nName").text(featureCollection.features[0].properties.name);		
-		
+		$("#nName").text(featureCollection.features[0].properties.name);	
+		getSensors(featureCollection.features[0]);	
+		getCrashes(featureCollection.features[0]);	
 	});	
 }
 
@@ -85,6 +111,9 @@ function neighborhoodFilter (resp) {
 	}
 	return data;
 }
+
+
+
 function setTypeahead (gj) {
 	var addresses = new Bloodhound({
 		datumTokenizer: function (datum) {
@@ -149,6 +178,7 @@ function createMap() {
 
   L.esri.basemapLayer('Topographic').addTo(map);	
   fGroup = new L.featureGroup().addTo(map);
+  sGroup = new L.featureGroup().addTo(map);
 }
 
 createMap();

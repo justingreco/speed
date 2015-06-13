@@ -5,5 +5,9 @@
 
 .tile {
 	margin-right: 30px;
-	height: 100px;
+	height: 300px;
+}
+
+.tt-dropdown-menu {
+	z-index: 100000 !important;
 }
