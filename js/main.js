@@ -1,4 +1,6 @@
 var map, fGroup;
+
+
 function findAddress (address) {
 	var query = L.esri.Tasks.query({
 	    url:'http://maps.raleighnc.gov/arcgis/rest/services/Addresses/MapServer/0'
@@ -8,6 +10,17 @@ function findAddress (address) {
 		fGroup.clearLayers();
 		L.geoJson(featureCollection).addTo(fGroup);
 	});
+}
+
+function findNeighborhood (name) {
+	var query = L.esri.Tasks.query({
+	    url:'http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Raleigh_Neighborhoods/FeatureServer/0'
+	});	
+	query.where("address='" + address + "'");
+	query.run(function (error, featureCollection) {
+		fGroup.clearLayers();
+		L.geoJson(featureCollection).addTo(fGroup);
+	});	
 }
 
 
@@ -46,7 +59,7 @@ function neighborhoodFilter (resp) {
 	var data = []
 	if (resp.features.length > 0) {
 		$(resp.features).each(function (i, f) {
-			data.push({value:f.attributes.NAME});
+			data.push({value:f.attributes['NAME']});
 		});
 	}
 	return data;
@@ -72,10 +85,17 @@ function setTypeahead (gj) {
 	        return Bloodhound.tokenizers.whitespace(datum.value);
 	    },
 	    queryTokenizer: Bloodhound.tokenizers.whitespace,
-	    local: $.map(gj.features, function (f) {
-	    	return {value: f.properties.name};
-	    })
-	});	
+		remote: {
+			url: "http://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Raleigh_Neighborhoods/FeatureServer/0/query?orderByFields=nameu&returnGeometry=false&outFields=name&returnDistinctValues=false&f=json",
+			filter: neighborhoodFilter,
+			replace: function(url, uriEncodedQuery) {
+				  uriEncodedQuery = uriEncodedQuery.replace(/\./g, "");
+			      var newUrl = url + '&where=NAMEU like ' + "'" + uriEncodedQuery.toUpperCase() +"%'";
+			      return newUrl;
+			}
+		}
+	});
+
 	addresses.initialize();
 	neighborhoods.initialize();
 	$("#search").typeahead({hint: true, highlight: true, minLength: 1}, 
