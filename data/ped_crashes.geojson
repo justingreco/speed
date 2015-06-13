@@ -1,0 +1,3864 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6073,
+          35.8522
+        ]
+      },
+      "properties": {
+        "key": "131917",
+        "date": "Jun  9 2015  7:28PM",
+        "roadon": "5002 WINDY HILL DR",
+        "roadat": "MILLBROOK RD",
+        "roadto": "POINTER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.595,
+          35.847
+        ]
+      },
+      "properties": {
+        "key": "131788",
+        "date": "Jun  7 2015  6:45PM",
+        "roadon": "4803 WALENDA DR",
+        "roadat": "HOYLE DR",
+        "roadto": "WHITEHALL AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7149,
+          35.7725
+        ]
+      },
+      "properties": {
+        "key": "131786",
+        "date": "Jun  7 2015  6:06PM",
+        "roadon": "ATHENS DR",
+        "roadat": "KAPLAN DR",
+        "roadto": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6315,
+          35.7665
+        ]
+      },
+      "properties": {
+        "key": "131662",
+        "date": "Jun  5 2015  9:10PM",
+        "roadon": "GARNER RD",
+        "roadat": "1107 GARNER RD",
+        "roadto": "BRAGG ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6474,
+          35.7848
+        ]
+      },
+      "properties": {
+        "key": "131726",
+        "date": "Jun  5 2015  7:10PM",
+        "roadon": "W NORTH ST",
+        "roadat": "GLENWOOD  AVE",
+        "roadto": "BOYLAN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.584,
+          35.7834
+        ]
+      },
+      "properties": {
+        "key": "131614",
+        "date": "Jun  4 2015  8:53PM",
+        "roadon": "FALSTAFF RD",
+        "roadat": "SWINBURNE",
+        "roadto": "SUNNY BROOK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5875,
+          35.7876
+        ]
+      },
+      "properties": {
+        "key": "131573",
+        "date": "Jun  4 2015  1:00PM",
+        "roadon": "SUNNY BROOK RD",
+        "roadat": "NEW  BERN AVE",
+        "roadto": "MILBURNIE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5933,
+          35.8679
+        ]
+      },
+      "properties": {
+        "key": "131363",
+        "date": "Jun  1 2015  8:00PM",
+        "roadon": "SHADOWLAND CRSG",
+        "roadat": "BERKELEY SPRINGS",
+        "roadto": "LITCHFORD DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6417,
+          35.7804
+        ]
+      },
+      "properties": {
+        "key": "131414",
+        "date": "Jun  1 2015 12:59PM",
+        "roadon": "HILLSBOROUGH  ST",
+        "roadat": "N MCDOWELL ST",
+        "roadto": "N DAWSON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6821,
+          35.9016
+        ]
+      },
+      "properties": {
+        "key": "131050",
+        "date": "May 27 2015  5:30PM",
+        "roadon": "8379 CREEDMOOR RD",
+        "roadat": "STRICKLAND RD",
+        "roadto": "BRENNAN DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.578,
+          35.8437
+        ]
+      },
+      "properties": {
+        "key": "130929",
+        "date": "May 25 2015  4:00PM",
+        "roadon": "3132 CALVARY DR",
+        "roadat": "CAPITAL  BLVD",
+        "roadto": "LOUISBURG RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6832,
+          35.842
+        ]
+      },
+      "properties": {
+        "key": "130779",
+        "date": "May 22 2015 12:13PM",
+        "roadon": "CREEDMOOR RD",
+        "roadat": "CRABTREE VALEY AVE",
+        "roadto": "GLENWOOD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6456,
+          35.879
+        ]
+      },
+      "properties": {
+        "key": "130711",
+        "date": "May 21 2015  2:10PM",
+        "roadon": "NEWTON RD",
+        "roadat": "SIX FORKS RD",
+        "roadto": "NEWTON WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6798,
+          35.8729
+        ]
+      },
+      "properties": {
+        "key": "131001",
+        "date": "May 21 2015 10:21AM",
+        "roadon": "50",
+        "roadat": "LYNN RD",
+        "roadto": "CAMPUS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6594,
+          35.7898
+        ]
+      },
+      "properties": {
+        "key": "130573",
+        "date": "May 19 2015  2:33PM",
+        "roadon": "417 WOODBURN RD",
+        "roadat": "CAMERON ST",
+        "roadto": "CLARK AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6885,
+          35.7858
+        ]
+      },
+      "properties": {
+        "key": "130451",
+        "date": "May 16 2015  2:43PM",
+        "roadon": "LEXINGTON DR",
+        "roadat": "GORMAN ST",
+        "roadto": "WHITMORE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5857,
+          35.8306
+        ]
+      },
+      "properties": {
+        "key": "130008",
+        "date": "May 10 2015  4:05AM",
+        "roadon": "3629 CAPITAL BLVD",
+        "roadat": "CAPITAL BLVD",
+        "roadto": "PINE KNOLL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5857,
+          35.8306
+        ]
+      },
+      "properties": {
+        "key": "130008",
+        "date": "May 10 2015  4:05AM",
+        "roadon": "3629 CAPITAL BLVD",
+        "roadat": "CAPITAL BLVD",
+        "roadto": "PINE KNOLL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7808,
+          35.9135
+        ]
+      },
+      "properties": {
+        "key": "129939",
+        "date": "May  8 2015  4:18PM",
+        "roadon": "BRIER CREEK PARKWAY",
+        "roadat": "7850 ALEXANDER PROMENA",
+        "roadto": "GLENWOOD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5764,
+          35.8499
+        ]
+      },
+      "properties": {
+        "key": "129837",
+        "date": "May  7 2015  5:00PM",
+        "roadon": "HOLLENDEN DR",
+        "roadat": "N NEW HOPE RD",
+        "roadto": "SPRING FOREST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6489,
+          35.75
+        ]
+      },
+      "properties": {
+        "key": "129756",
+        "date": "May  6 2015  8:19AM",
+        "roadon": "S SAUNDERS ST",
+        "roadat": "PECAN RD",
+        "roadto": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6976,
+          35.7869
+        ]
+      },
+      "properties": {
+        "key": "129710",
+        "date": "May  6 2015 12:58AM",
+        "roadon": "440",
+        "roadat": "WESTERN  BLVD",
+        "roadto": "HILLBOROUGH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6976,
+          35.7869
+        ]
+      },
+      "properties": {
+        "key": "129710",
+        "date": "May  6 2015 12:58AM",
+        "roadon": "440",
+        "roadat": "WESTERN  BLVD",
+        "roadto": "HILLBOROUGH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6625,
+          35.7923
+        ]
+      },
+      "properties": {
+        "key": "129718",
+        "date": "May  3 2015  2:17PM",
+        "roadon": "SMALLWOOD DR",
+        "roadat": "OBERLIN RD",
+        "roadto": "DANIELS ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6353,
+          35.7693
+        ]
+      },
+      "properties": {
+        "key": "129738",
+        "date": "May  2 2015 11:01AM",
+        "roadon": "MLKJR BLVD",
+        "roadat": "BLOUNT ST",
+        "roadto": "PERSON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5922,
+          35.8202
+        ]
+      },
+      "properties": {
+        "key": "129463",
+        "date": "May  2 2015  9:16AM",
+        "roadon": "3000 CAPITAL BLVD",
+        "roadat": "CAPITAL  BLVD",
+        "roadto": "TRAWICK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6416,
+          35.7793
+        ]
+      },
+      "properties": {
+        "key": "129385",
+        "date": "May  1 2015 10:30AM",
+        "roadon": "W MORGAN ST",
+        "roadat": "S MCDOWELL ST",
+        "roadto": "S SALISBURY ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.728,
+          35.7811
+        ]
+      },
+      "properties": {
+        "key": "129376",
+        "date": "May  1 2015  6:52AM",
+        "roadon": "BUCK JONES RD",
+        "roadat": "OAKDALE DR",
+        "roadto": "CHESTHILL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.728,
+          35.7811
+        ]
+      },
+      "properties": {
+        "key": "129376",
+        "date": "May  1 2015  6:52AM",
+        "roadon": "BUCK JONES RD",
+        "roadat": "OAKDALE DR",
+        "roadto": "CHESTHILL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6731,
+          35.7501
+        ]
+      },
+      "properties": {
+        "key": "129329",
+        "date": "Apr 30 2015  5:04PM",
+        "roadon": "HENSLOWE DR",
+        "roadat": "BRETT CIR",
+        "roadto": "PERENNIAL ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7618,
+          35.8971
+        ]
+      },
+      "properties": {
+        "key": "129283",
+        "date": "Apr 30 2015 10:13AM",
+        "roadon": "9225 GLENWOOD AVE",
+        "roadat": "GLENWOOD AVE",
+        "roadto": "LUMLEY RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5874,
+          35.7887
+        ]
+      },
+      "properties": {
+        "key": "129392",
+        "date": "Apr 29 2015  9:11PM",
+        "roadon": "NEW BERN AVE",
+        "roadat": "SHANDA DR",
+        "roadto": "MILBURNIE ROAD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7211,
+          35.7486
+        ]
+      },
+      "properties": {
+        "key": "129243",
+        "date": "Apr 29 2015  4:45PM",
+        "roadon": "TRYON RD",
+        "roadat": "DILLARD DR",
+        "roadto": "SILVER BEACH WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5552,
+          35.9519
+        ]
+      },
+      "properties": {
+        "key": "129245",
+        "date": "Apr 29 2015  3:02PM",
+        "roadon": "12453 RICMOND RUN DR",
+        "roadat": "ELMGATE WAY",
+        "roadto": "AQUILA WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.585,
+          35.869
+        ]
+      },
+      "properties": {
+        "key": "129214",
+        "date": "Apr 28 2015  8:15PM",
+        "roadon": "6901 OLD WAKE FOREST R",
+        "roadat": "SUMNER BLVD",
+        "roadto": "RURITANIA ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6494,
+          35.75
+        ]
+      },
+      "properties": {
+        "key": "129173",
+        "date": "Apr 27 2015  9:34PM",
+        "roadon": "2506 S SAUNDERS ST",
+        "roadat": "S SAUNDERS ST",
+        "roadto": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6507,
+          35.7883
+        ]
+      },
+      "properties": {
+        "key": "129018",
+        "date": "Apr 25 2015  3:06PM",
+        "roadon": "624 ST MARYS ST",
+        "roadat": "ST MARYS ST",
+        "roadto": "GASTON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6726,
+          35.7888
+        ]
+      },
+      "properties": {
+        "key": "128949",
+        "date": "Apr 24 2015  1:37PM",
+        "roadon": "HILLSBOROUGH ST",
+        "roadat": "GARDNER ST",
+        "roadto": "BROOKS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.609,
+          35.896
+        ]
+      },
+      "properties": {
+        "key": "128750",
+        "date": "Apr 21 2015  3:09PM",
+        "roadon": "FALLS  OF NEUSE RD",
+        "roadat": "THORPSHIRE DR",
+        "roadto": "HAYMARKET LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6146,
+          35.7841
+        ]
+      },
+      "properties": {
+        "key": "128678",
+        "date": "Apr 20 2015  5:20PM",
+        "roadon": "OAKWOOD AVE",
+        "roadat": "WALDROP STREET",
+        "roadto": "FISHER STREET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5673,
+          35.7977
+        ]
+      },
+      "properties": {
+        "key": "128374",
+        "date": "Apr 15 2015  8:46PM",
+        "roadon": "NEW  BERN AVE",
+        "roadat": "PLAINVIEW DR",
+        "roadto": "BEACON LAKE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6492,
+          35.7494
+        ]
+      },
+      "properties": {
+        "key": "128197",
+        "date": "Apr 13 2015  6:25PM",
+        "roadon": "S SAUNDERS ST",
+        "roadat": "S SAUNDERS ST",
+        "roadto": "CAROLINA PINES AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6564,
+          35.7812
+        ]
+      },
+      "properties": {
+        "key": "128166",
+        "date": "Apr 13 2015  8:45AM",
+        "roadon": "TRYON HILL DR",
+        "roadat": "ELLINGTON OAKS CT",
+        "roadto": "WAKEFIELD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6414,
+          35.7756
+        ]
+      },
+      "properties": {
+        "key": "128036",
+        "date": "Apr 10 2015  5:40PM",
+        "roadon": "W DAVIE ST",
+        "roadat": "GALE ST",
+        "roadto": "MCDOWELL ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6399,
+          35.7826
+        ]
+      },
+      "properties": {
+        "key": "128123",
+        "date": "Apr 10 2015  1:45PM",
+        "roadon": "W JONES ST",
+        "roadat": "N SALISBURY ST",
+        "roadto": "N WILMINGTON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5716,
+          35.7987
+        ]
+      },
+      "properties": {
+        "key": "127727",
+        "date": "Apr  6 2015  2:56PM",
+        "roadon": "NEW  BERN AVE",
+        "roadat": "PLAINVIEW DR",
+        "roadto": "CORPORATION PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6477,
+          35.8565
+        ]
+      },
+      "properties": {
+        "key": "127708",
+        "date": "Apr  6 2015  7:25AM",
+        "roadon": "SNELLING RD",
+        "roadat": "W MILLBROOK RD",
+        "roadto": "DIXON DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6362,
+          35.8077
+        ]
+      },
+      "properties": {
+        "key": "127518",
+        "date": "Apr  2 2015  2:48PM",
+        "roadon": "PINE DR",
+        "roadat": "WHITAKER MILL RD",
+        "roadto": "NOBLE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6418,
+          35.7784
+        ]
+      },
+      "properties": {
+        "key": "127503",
+        "date": "Apr  2 2015 11:32AM",
+        "roadon": "S MCDOWELL ST",
+        "roadat": "W HARGETT ST",
+        "roadto": "W MORGAN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6321,
+          35.7932
+        ]
+      },
+      "properties": {
+        "key": "127365",
+        "date": "Mar 30 2015  6:27PM",
+        "roadon": "WAKE FOREST RD",
+        "roadat": "GLASCOCK ST",
+        "roadto": "CEDAR ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6431,
+          35.7839
+        ]
+      },
+      "properties": {
+        "key": "127123",
+        "date": "Mar 27 2015  2:10PM",
+        "roadon": "N DAWSON ST",
+        "roadat": "W LANE ST",
+        "roadto": "W JONES ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.59,
+          35.822
+        ]
+      },
+      "properties": {
+        "key": "127054",
+        "date": "Mar 26 2015  2:59PM",
+        "roadon": "CAPIITAL BLVD",
+        "roadat": "HUNTLEIGH DR",
+        "roadto": "MAYFLOWER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6251,
+          35.8241
+        ]
+      },
+      "properties": {
+        "key": "127086",
+        "date": "Mar 26 2015  4:02AM",
+        "roadon": "WAKE TOWNE DR",
+        "roadat": "WAKE FOREST RD",
+        "roadto": "SIX FORKS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6294,
+          35.7382
+        ]
+      },
+      "properties": {
+        "key": "127046",
+        "date": "Mar 25 2015  5:40PM",
+        "roadon": "GARNER RD",
+        "roadat": "GROVE CREEK LN",
+        "roadto": "TRYON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6008,
+          35.8173
+        ]
+      },
+      "properties": {
+        "key": "127065",
+        "date": "Mar 25 2015  5:15PM",
+        "roadon": "2751 CAPITAL BLVD",
+        "roadat": "CAPITAL BLVD",
+        "roadto": "HIGHWOODS BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6387,
+          35.7887
+        ]
+      },
+      "properties": {
+        "key": "126900",
+        "date": "Mar 24 2015  7:49AM",
+        "roadon": "HALIFAX ST",
+        "roadat": "SEABOARD AVE",
+        "roadto": "PEACE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6363,
+          35.7803
+        ]
+      },
+      "properties": {
+        "key": "126719",
+        "date": "Mar 19 2015  9:48PM",
+        "roadon": "NEW BERN PL",
+        "roadat": "N BLOUNT ST",
+        "roadto": "N PERSON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6479,
+          35.7881
+        ]
+      },
+      "properties": {
+        "key": "126701",
+        "date": "Mar 19 2015  5:13PM",
+        "roadon": "MCDOWELL ST",
+        "roadat": "MARTIN ST",
+        "roadto": "HARGETT ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5886,
+          35.797
+        ]
+      },
+      "properties": {
+        "key": "126587",
+        "date": "Mar 18 2015  2:46AM",
+        "roadon": "3210 YONKERS RD",
+        "roadat": "440",
+        "roadto": "TERMINAL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6056,
+          35.7746
+        ]
+      },
+      "properties": {
+        "key": "126614",
+        "date": "Mar 17 2015  9:14PM",
+        "roadon": "POOLE ROAD",
+        "roadat": "PEYTON ST",
+        "roadto": "S KING CHARLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5797,
+          35.7973
+        ]
+      },
+      "properties": {
+        "key": "126581",
+        "date": "Mar 17 2015  8:00PM",
+        "roadon": "3591 MAITLAND DR",
+        "roadat": "NEW BERN AVE",
+        "roadto": "BASTION LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5985,
+          35.8103
+        ]
+      },
+      "properties": {
+        "key": "126534",
+        "date": "Mar 17 2015 12:11PM",
+        "roadon": "2420 N RALEIGH BLVD",
+        "roadat": "RALEIGH BLVD",
+        "roadto": "WESTINGHOUSE BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          35.8134
+        ]
+      },
+      "properties": {
+        "key": "126554",
+        "date": "Mar 16 2015  5:45PM",
+        "roadon": "2402 WAKE FOREST RD",
+        "roadat": "WAKE FOREST RD",
+        "roadto": "HODGES ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7248,
+          35.8959
+        ]
+      },
+      "properties": {
+        "key": "126464",
+        "date": "Mar 16 2015 10:39AM",
+        "roadon": "9011 LEESVILLE RD",
+        "roadat": "9011 LEESVILLE RD",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6223,
+          35.7681
+        ]
+      },
+      "properties": {
+        "key": "126373",
+        "date": "Mar 14 2015  4:12PM",
+        "roadon": "PAGE ST",
+        "roadat": "COLEMAN ST",
+        "roadto": "CUMBERLAND ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.58,
+          35.8443
+        ]
+      },
+      "properties": {
+        "key": "126298",
+        "date": "Mar 13 2015  7:39AM",
+        "roadon": "CALVARY DR",
+        "roadat": "CAPITAL  BLVD",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6629,
+          35.7908
+        ]
+      },
+      "properties": {
+        "key": "126285",
+        "date": "Mar 12 2015  7:34PM",
+        "roadon": "CAMERON ST",
+        "roadat": "OBERLIN RD",
+        "roadto": "STAFFORD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6507,
+          35.7313
+        ]
+      },
+      "properties": {
+        "key": "126143",
+        "date": "Mar 10 2015  3:08PM",
+        "roadon": "TRYON RD",
+        "roadat": "WILMINGTON ST",
+        "roadto": "WILMINGTON SERVICE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6978,
+          35.7558
+        ]
+      },
+      "properties": {
+        "key": "125877",
+        "date": "Mar  4 2015  9:31PM",
+        "roadon": "CUM LAUDE CT",
+        "roadat": "THISTLEDOWN DR",
+        "roadto": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6995,
+          35.8538
+        ]
+      },
+      "properties": {
+        "key": "125703",
+        "date": "Mar  2 2015  8:08PM",
+        "roadon": "70",
+        "roadat": "HOLLYRIDGE DR",
+        "roadto": "GLEN EDEN DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.707,
+          35.8795
+        ]
+      },
+      "properties": {
+        "key": "125603",
+        "date": "Feb 28 2015  5:18AM",
+        "roadon": "LEESVILLE  RD",
+        "roadat": "PIKE RD",
+        "roadto": "LANDFALL CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6861,
+          35.8017
+        ]
+      },
+      "properties": {
+        "key": "125625",
+        "date": "Feb 27 2015  4:28PM",
+        "roadon": "WADE AV",
+        "roadat": "FAIRCLOTH ST",
+        "roadto": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.619,
+          35.826
+        ]
+      },
+      "properties": {
+        "key": "125367",
+        "date": "Feb 25 2015 12:22PM",
+        "roadon": "1305 NAVAHO DR",
+        "roadat": "PINECREST DR",
+        "roadto": "EXECUTIVE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.612,
+          35.788
+        ]
+      },
+      "properties": {
+        "key": "125031",
+        "date": "Feb 23 2015  3:35PM",
+        "roadon": "2041 MILBURNIE RD",
+        "roadat": "MILBURNIE",
+        "roadto": "BRIGHTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6472,
+          35.7863
+        ]
+      },
+      "properties": {
+        "key": "124968",
+        "date": "Feb 22 2015  2:00AM",
+        "roadon": "GLENWOOD  AVE",
+        "roadat": "TUCKER ST",
+        "roadto": "PEACE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6896,
+          35.7848
+        ]
+      },
+      "properties": {
+        "key": "124921",
+        "date": "Feb 20 2015  5:30PM",
+        "roadon": "WHITMORE DR",
+        "roadat": "WESTERN BLVD",
+        "roadto": "GORMAN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5637,
+          35.9247
+        ]
+      },
+      "properties": {
+        "key": "124702",
+        "date": "Feb 17 2015 12:27PM",
+        "roadon": "ZUZU DR",
+        "roadat": "BEDFORDTOWN DR",
+        "roadto": "LONGEHOLME WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6356,
+          35.8886
+        ]
+      },
+      "properties": {
+        "key": "124700",
+        "date": "Feb 17 2015 11:57AM",
+        "roadon": "CLEAR BROOK DR",
+        "roadat": "MISTY DAWN PL",
+        "roadto": "MOURNING DOVE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6235,
+          35.8205
+        ]
+      },
+      "properties": {
+        "key": "124498",
+        "date": "Feb 13 2015  3:12PM",
+        "roadon": "WAKE FOREST RD",
+        "roadat": "SIX FORKS RD",
+        "roadto": "WAKE TOWNE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6765,
+          35.7775
+        ]
+      },
+      "properties": {
+        "key": "124463",
+        "date": "Feb 13 2015  4:49AM",
+        "roadon": "2237 AVENT FERRY RD",
+        "roadat": "CENTENNIAL PKWY",
+        "roadto": "WESTERN  BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.621,
+          35.8072
+        ]
+      },
+      "properties": {
+        "key": "124311",
+        "date": "Feb 10 2015 12:20PM",
+        "roadon": "ATLANTIC AVE",
+        "roadat": "E WHITAKER MILL RD",
+        "roadto": "WICKER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6732,
+          35.789
+        ]
+      },
+      "properties": {
+        "key": "125327",
+        "date": "Feb  9 2015  6:29PM",
+        "roadon": "BROOKS AVE",
+        "roadat": "HILLSBOROUGH ST",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.588,
+          35.786
+        ]
+      },
+      "properties": {
+        "key": "124231",
+        "date": "Feb  9 2015  2:12PM",
+        "roadon": "3000 NEW BERN AVE",
+        "roadat": "NEW BERN AVE",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6283,
+          35.8809
+        ]
+      },
+      "properties": {
+        "key": "124078",
+        "date": "Feb  6 2015  1:44PM",
+        "roadon": "7009 HARPS MILL RD",
+        "roadat": "FALLS  OF NEUSE RD",
+        "roadto": "NEWTON WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654,
+          35.8588
+        ]
+      },
+      "properties": {
+        "key": "124218",
+        "date": "Feb  6 2015 12:30PM",
+        "roadon": "925 SHELLBROOK CT",
+        "roadat": "NORTH HILLS DR",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5657,
+          35.8701
+        ]
+      },
+      "properties": {
+        "key": "123956",
+        "date": "Feb  4 2015  7:04PM",
+        "roadon": "8000 TOWN DR",
+        "roadat": "OLD WAKE FOREST RD",
+        "roadto": "SEGAL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6381,
+          35.7776
+        ]
+      },
+      "properties": {
+        "key": "123558",
+        "date": "Jan 29 2015  2:29AM",
+        "roadon": "223 S WILMINGTON ST",
+        "roadat": "S WILMINGTON ST",
+        "roadto": "S WILMINGTON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5875,
+          35.8458
+        ]
+      },
+      "properties": {
+        "key": "123503",
+        "date": "Jan 28 2015  6:00PM",
+        "roadon": "2921 MILLBROOK WOODS D",
+        "roadat": "CALVARY DR",
+        "roadto": "E MILLBROOK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6383,
+          35.7759
+        ]
+      },
+      "properties": {
+        "key": "123483",
+        "date": "Jan 28 2015 10:04AM",
+        "roadon": "E DAVIE ST",
+        "roadat": "WILMINGTON ST",
+        "roadto": "FAYETTEVILLE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6413,
+          35.8561
+        ]
+      },
+      "properties": {
+        "key": "124204",
+        "date": "Jan 24 2015 10:08PM",
+        "roadon": "W MILLBROOK RD",
+        "roadat": "SIX FORKS RD",
+        "roadto": "DIXON DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6459,
+          35.8797
+        ]
+      },
+      "properties": {
+        "key": "123209",
+        "date": "Jan 23 2015  8:07PM",
+        "roadon": "SIX FORKS RD",
+        "roadat": "7365 SIX FORKS RD",
+        "roadto": "NEWTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6397,
+          35.7858
+        ]
+      },
+      "properties": {
+        "key": "123161",
+        "date": "Jan 23 2015 10:24AM",
+        "roadon": "413 N SALISBURY ST",
+        "roadat": "W PEACE ST",
+        "roadto": "W LANE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6136,
+          35.7878
+        ]
+      },
+      "properties": {
+        "key": "122753",
+        "date": "Jan 16 2015  9:09AM",
+        "roadon": "N RALEIGH  BLVD",
+        "roadat": "MILBURNIE RD",
+        "roadto": "GLASSCOCK ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6627,
+          35.7906
+        ]
+      },
+      "properties": {
+        "key": "122559",
+        "date": "Jan 13 2015  1:57PM",
+        "roadon": "416 OBERLIN RD",
+        "roadat": "CAMERON ST",
+        "roadto": "CLARK AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5997,
+          35.8352
+        ]
+      },
+      "properties": {
+        "key": "122540",
+        "date": "Jan 13 2015  6:50AM",
+        "roadon": "NEW HOPE CHURCH RD",
+        "roadat": "BONNEVILLE CT",
+        "roadto": "BRENTWOOD RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6347,
+          35.7614
+        ]
+      },
+      "properties": {
+        "key": "122420",
+        "date": "Jan 11 2015  4:22AM",
+        "roadon": "FAYETEVILLE ST",
+        "roadat": "MARTIN ST",
+        "roadto": "DAVIE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6129,
+          35.7939
+        ]
+      },
+      "properties": {
+        "key": "122480",
+        "date": "Jan  9 2015 11:39PM",
+        "roadon": "1400 N RALEIGH BLVD",
+        "roadat": "GLASCOCK ST",
+        "roadto": "N RAEIGH BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5558,
+          35.8687
+        ]
+      },
+      "properties": {
+        "key": "122576",
+        "date": "Jan  9 2015 11:18PM",
+        "roadon": "540",
+        "roadat": "FOX ROAD",
+        "roadto": "401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5558,
+          35.8687
+        ]
+      },
+      "properties": {
+        "key": "122576",
+        "date": "Jan  9 2015 11:18PM",
+        "roadon": "540",
+        "roadat": "FOX ROAD",
+        "roadto": "401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6628,
+          35.7909
+        ]
+      },
+      "properties": {
+        "key": "122253",
+        "date": "Jan  8 2015  2:29PM",
+        "roadon": "OBERLIN RD",
+        "roadat": "CAMERON ST",
+        "roadto": "CLARK AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5658,
+          35.8703
+        ]
+      },
+      "properties": {
+        "key": "122099",
+        "date": "Jan  5 2015  4:22PM",
+        "roadon": "8000 TOWN DR",
+        "roadat": "TOWN DR",
+        "roadto": "CLUB MANOR DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7211,
+          35.7836
+        ]
+      },
+      "properties": {
+        "key": "121784",
+        "date": "Dec 31 2014 12:52AM",
+        "roadon": "5563 WESTERN BLVD.",
+        "roadat": "BUCK JONES RD",
+        "roadto": "CAROLINA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6275,
+          35.8196
+        ]
+      },
+      "properties": {
+        "key": "121615",
+        "date": "Dec 26 2014  3:25PM",
+        "roadon": "350 E SIX FORKS RD",
+        "roadat": "SIX FORKS RD",
+        "roadto": "RUCKER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7323,
+          35.7766
+        ]
+      },
+      "properties": {
+        "key": "121573",
+        "date": "Dec 25 2014  3:46PM",
+        "roadon": "BUCK JONES RD",
+        "roadat": "BASHFORD RD",
+        "roadto": "NORMAN PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6106,
+          35.8415
+        ]
+      },
+      "properties": {
+        "key": "121486",
+        "date": "Dec 24 2014  1:22AM",
+        "roadon": "4408 OLD WAKE FOREST R",
+        "roadat": "NEW MARKET WAY",
+        "roadto": "WAKE FOREST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642,
+          35.852
+        ]
+      },
+      "properties": {
+        "key": "121357",
+        "date": "Dec 22 2014  1:23PM",
+        "roadon": "SIX FORKS RD",
+        "roadat": "CRESTVIEW RD",
+        "roadto": "SHELLEY RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6492,
+          35.7474
+        ]
+      },
+      "properties": {
+        "key": "121445",
+        "date": "Dec 22 2014  8:00AM",
+        "roadon": "2626 S. SAUNDERS ST.",
+        "roadat": "CAROLINA PINES AVE",
+        "roadto": "ILEAGNES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6357,
+          35.7634
+        ]
+      },
+      "properties": {
+        "key": "121315",
+        "date": "Dec 21 2014  8:21PM",
+        "roadon": "HOKE ST",
+        "roadat": "S PERSON ST",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6385,
+          35.7879
+        ]
+      },
+      "properties": {
+        "key": "121091",
+        "date": "Dec 18 2014 12:00PM",
+        "roadon": "PEACE ST",
+        "roadat": "N WILMINGTON ST",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5092,
+          35.8883
+        ]
+      },
+      "properties": {
+        "key": "120889",
+        "date": "Dec 16 2014  7:08AM",
+        "roadon": "FORESTVILLE RD",
+        "roadat": "BRIGHTON VILLAGE DR",
+        "roadto": "MITCHEL MILL RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.585,
+          35.7798
+        ]
+      },
+      "properties": {
+        "key": "120671",
+        "date": "Dec 12 2014  4:45PM",
+        "roadon": "SWINBURNE ST",
+        "roadat": "KIDD RD",
+        "roadto": "FALSTAFF RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.675,
+          35.78
+        ]
+      },
+      "properties": {
+        "key": "120573",
+        "date": "Dec 12 2014 10:04AM",
+        "roadon": "WESTERN  BLVD",
+        "roadat": "AVENT FERRY RD",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6546,
+          35.791
+        ]
+      },
+      "properties": {
+        "key": "120449",
+        "date": "Dec 10 2014  2:24PM",
+        "roadon": "CAMERON ST",
+        "roadat": "SMALLWOOD DR",
+        "roadto": "ST MARYS ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5812,
+          35.8852
+        ]
+      },
+      "properties": {
+        "key": "120246",
+        "date": "Dec  7 2014  1:45PM",
+        "roadon": "3209 GRESHAM LAKE RD",
+        "roadat": "GRESHAM LAKE RD",
+        "roadto": "WELLINGTON CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5795,
+          35.7994
+        ]
+      },
+      "properties": {
+        "key": "120271",
+        "date": "Dec  6 2014  2:13PM",
+        "roadon": "3685 NEW BERN AVE",
+        "roadat": "TRAWICK  RD",
+        "roadto": "MAITLAND DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.61,
+          35.771
+        ]
+      },
+      "properties": {
+        "key": "120147",
+        "date": "Dec  6 2014  1:27AM",
+        "roadon": "MLK  JR BLVD",
+        "roadat": "GRANTLAND DR",
+        "roadto": "S RALEIGH BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5772,
+          35.8489
+        ]
+      },
+      "properties": {
+        "key": "120455",
+        "date": "Dec  5 2014  6:53PM",
+        "roadon": "5107 NEW HOPE RD",
+        "roadat": "NEW HOPE RD",
+        "roadto": "CALVARY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6084,
+          35.8369
+        ]
+      },
+      "properties": {
+        "key": "119739",
+        "date": "Nov 29 2014 12:44PM",
+        "roadon": "1725 NEW HOPE CHURCH R",
+        "roadat": "ATLANTIC  AVE",
+        "roadto": "WAKE FOREST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6006,
+          35.835
+        ]
+      },
+      "properties": {
+        "key": "119701",
+        "date": "Nov 28 2014  1:22PM",
+        "roadon": "NEW HOPE  CHURCH RD",
+        "roadat": "BRENTWOOD RD",
+        "roadto": "ATLANTIC AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6164,
+          35.8582
+        ]
+      },
+      "properties": {
+        "key": "119543",
+        "date": "Nov 25 2014  5:17PM",
+        "roadon": "5519 FALLS OF THE NEUS",
+        "roadat": "MANASSAS CT",
+        "roadto": "FAIRFAX DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6728,
+          35.7891
+        ]
+      },
+      "properties": {
+        "key": "119505",
+        "date": "Nov 25 2014  2:40AM",
+        "roadon": "BROOKS AVE",
+        "roadat": "HILLSBOROUGH ST",
+        "roadto": "VANDERBILT AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5632,
+          35.8013
+        ]
+      },
+      "properties": {
+        "key": "119494",
+        "date": "Nov 24 2014  7:32PM",
+        "roadon": "CORPORATION PKWY",
+        "roadat": "N NEW HOPE RD",
+        "roadto": "NEW BERN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6442,
+          35.8679
+        ]
+      },
+      "properties": {
+        "key": "119426",
+        "date": "Nov 24 2014  8:38AM",
+        "roadon": "6311 LYNN CREST LN",
+        "roadat": "SHELLY RIDGE LN",
+        "roadto": "BRIDLE RIDGE LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6896,
+          35.7848
+        ]
+      },
+      "properties": {
+        "key": "119287",
+        "date": "Nov 21 2014  8:35PM",
+        "roadon": "WESTERN BLVD",
+        "roadat": "WHITMORE DR",
+        "roadto": "CLANTON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5736,
+          35.8424
+        ]
+      },
+      "properties": {
+        "key": "119236",
+        "date": "Nov 21 2014 10:59AM",
+        "roadon": "NEW HOPE RD",
+        "roadat": "LOUISBURG RD",
+        "roadto": "JAMES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.633,
+          35.764
+        ]
+      },
+      "properties": {
+        "key": "119211",
+        "date": "Nov 20 2014  2:30AM",
+        "roadon": "EAST ST",
+        "roadat": "BRANCH ST",
+        "roadto": "BRAGG ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5876,
+          35.7888
+        ]
+      },
+      "properties": {
+        "key": "119128",
+        "date": "Nov 19 2014  2:20PM",
+        "roadon": "NEW BERN AVE",
+        "roadat": "MILBURNIE RD",
+        "roadto": "SHANTA DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6629,
+          35.7908
+        ]
+      },
+      "properties": {
+        "key": "119001",
+        "date": "Nov 18 2014  1:53PM",
+        "roadon": "OBERLIN RD",
+        "roadat": "CAMERON ST",
+        "roadto": "CHAMBERLAIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5918,
+          35.8229
+        ]
+      },
+      "properties": {
+        "key": "118985",
+        "date": "Nov 18 2014  9:25AM",
+        "roadon": "3131 CAPITAL BLVD",
+        "roadat": "HUNTLEIGH DR",
+        "roadto": "MAYFLOWER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5833,
+          35.771
+        ]
+      },
+      "properties": {
+        "key": "118905",
+        "date": "Nov 17 2014  1:49PM",
+        "roadon": "POOLE  RD",
+        "roadat": "SUNNYBROOK RD",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.578,
+          35.801
+        ]
+      },
+      "properties": {
+        "key": "118869",
+        "date": "Nov 17 2014  2:35AM",
+        "roadon": "1731 TRAWICK RD",
+        "roadat": "TRAWICK RD",
+        "roadto": "BASTION LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.578,
+          35.801
+        ]
+      },
+      "properties": {
+        "key": "118869",
+        "date": "Nov 17 2014  2:35AM",
+        "roadon": "1731 TRAWICK RD",
+        "roadat": "TRAWICK RD",
+        "roadto": "BASTION LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.578,
+          35.801
+        ]
+      },
+      "properties": {
+        "key": "118869",
+        "date": "Nov 17 2014  2:35AM",
+        "roadon": "1731 TRAWICK RD",
+        "roadat": "TRAWICK RD",
+        "roadto": "BASTION LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.597,
+          35.7473
+        ]
+      },
+      "properties": {
+        "key": "118613",
+        "date": "Nov 13 2014  8:09AM",
+        "roadon": "ROCK QUARRY RD",
+        "roadat": "SHEPHERD VALLEY ST",
+        "roadto": "OLDE BIRCH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6353,
+          35.7695
+        ]
+      },
+      "properties": {
+        "key": "118493",
+        "date": "Nov 11 2014  6:56PM",
+        "roadon": "PERSON ST",
+        "roadat": "MLK JR BLVD",
+        "roadto": "WORTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.58,
+          35.849
+        ]
+      },
+      "properties": {
+        "key": "118441",
+        "date": "Nov 10 2014  6:49PM",
+        "roadon": "CAPITA BLVD",
+        "roadat": "N NEW HOPE RD",
+        "roadto": "SPRING  FOREST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6642,
+          35.8702
+        ]
+      },
+      "properties": {
+        "key": "118425",
+        "date": "Nov 10 2014  5:51PM",
+        "roadon": "LEAD MINE",
+        "roadat": "LYNN RD",
+        "roadto": "SHADY SIDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5792,
+          35.7968
+        ]
+      },
+      "properties": {
+        "key": "118352",
+        "date": "Nov  9 2014  2:58PM",
+        "roadon": "3699 NEW BERN AVE",
+        "roadat": "NEW BERN AVE",
+        "roadto": "LAKE WOODARD DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7208,
+          35.7845
+        ]
+      },
+      "properties": {
+        "key": "118345",
+        "date": "Nov  8 2014  8:30PM",
+        "roadon": "5563 WESTERN BLVD",
+        "roadat": "WESTERN BLVD",
+        "roadto": "HUNT CLUB LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6456,
+          35.7744
+        ]
+      },
+      "properties": {
+        "key": "118370",
+        "date": "Nov  7 2014 10:33AM",
+        "roadon": "320 W CABARRUS ST",
+        "roadat": "DAWSON  ST",
+        "roadto": "WEST ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6326,
+          35.7403
+        ]
+      },
+      "properties": {
+        "key": "118322",
+        "date": "Nov  6 2014  9:01PM",
+        "roadon": "MARION RD",
+        "roadat": "RUSH ST",
+        "roadto": "SHELDEN DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.633,
+          35.775
+        ]
+      },
+      "properties": {
+        "key": "118123",
+        "date": "Nov  6 2014  6:17AM",
+        "roadon": "S BLOODWORTH ST",
+        "roadat": "E DAVIE ST",
+        "roadto": "E MARTIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6685,
+          35.7878
+        ]
+      },
+      "properties": {
+        "key": "118121",
+        "date": "Nov  6 2014  1:59AM",
+        "roadon": "HILLSBOROUGH  ST",
+        "roadat": "HORNE ST",
+        "roadto": "POGUE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5917,
+          35.8207
+        ]
+      },
+      "properties": {
+        "key": "118157",
+        "date": "Nov  5 2014  6:17AM",
+        "roadon": "CAPITAL BLVD",
+        "roadat": "HUNTLEIGH DR",
+        "roadto": "BRENTWOOD RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.582,
+          35.835
+        ]
+      },
+      "properties": {
+        "key": "118569",
+        "date": "Nov  4 2014  9:07PM",
+        "roadon": "CAPITAL BLVD",
+        "roadat": "NEW HOPE CHURCH RD",
+        "roadto": "CALVARY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6351,
+          35.7812
+        ]
+      },
+      "properties": {
+        "key": "118015",
+        "date": "Nov  4 2014  9:04AM",
+        "roadon": "N PERSON ST",
+        "roadat": "E EDENTON ST",
+        "roadto": "E JONES ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6661,
+          35.7877
+        ]
+      },
+      "properties": {
+        "key": "117691",
+        "date": "Oct 30 2014  4:01PM",
+        "roadon": "2302 HILLSBOROUGH ST",
+        "roadat": "HILLSBOROUGH ST",
+        "roadto": "CLARK AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6404,
+          35.7757
+        ]
+      },
+      "properties": {
+        "key": "117608",
+        "date": "Oct 29 2014  3:36PM",
+        "roadon": "S SALISBURY ST",
+        "roadat": "DAVIE ST",
+        "roadto": "MARTIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6433,
+          35.7813
+        ]
+      },
+      "properties": {
+        "key": "117503",
+        "date": "Oct 28 2014 12:00PM",
+        "roadon": "N DAWSON ST",
+        "roadat": "W EDENTON ST",
+        "roadto": "HILLSBOROUGH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5825,
+          35.7944
+        ]
+      },
+      "properties": {
+        "key": "117739",
+        "date": "Oct 28 2014  8:31AM",
+        "roadon": "NEW BERN AVE",
+        "roadat": "440",
+        "roadto": "TRAWICK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.619,
+          35.866
+        ]
+      },
+      "properties": {
+        "key": "117457",
+        "date": "Oct 27 2014  9:23PM",
+        "roadon": "6102 FALLS OF NEUSE RD",
+        "roadat": "SPRING FOREST RD",
+        "roadto": "CARLOS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.619,
+          35.866
+        ]
+      },
+      "properties": {
+        "key": "117457",
+        "date": "Oct 27 2014  9:23PM",
+        "roadon": "6102 FALLS OF NEUSE RD",
+        "roadat": "SPRING FOREST RD",
+        "roadto": "CARLOS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.609,
+          35.812
+        ]
+      },
+      "properties": {
+        "key": "117461",
+        "date": "Oct 27 2014  7:49PM",
+        "roadon": "CAPITAL  BLVD",
+        "roadat": "440",
+        "roadto": "YONKERS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6404,
+          35.7756
+        ]
+      },
+      "properties": {
+        "key": "117476",
+        "date": "Oct 27 2014 12:05PM",
+        "roadon": "DAVIE ST",
+        "roadat": "SALISBURY ST",
+        "roadto": "FAYETTEVILLE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63,
+          35.801
+        ]
+      },
+      "properties": {
+        "key": "117278",
+        "date": "Oct 25 2014 12:29PM",
+        "roadon": "1505 CAPITAL BLVD",
+        "roadat": "CAPITAL  BLVD",
+        "roadto": "GAVIN STREET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6072,
+          35.7413
+        ]
+      },
+      "properties": {
+        "key": "117323",
+        "date": "Oct 24 2014  7:59PM",
+        "roadon": "CREECH RD",
+        "roadat": "DILLMARK DR",
+        "roadto": "ADCOX PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7033,
+          35.7848
+        ]
+      },
+      "properties": {
+        "key": "117253",
+        "date": "Oct 24 2014  7:49PM",
+        "roadon": "WESTERN  BLVD",
+        "roadat": "BLUE RIDGE RD",
+        "roadto": "SCHAUB DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5985,
+          35.8171
+        ]
+      },
+      "properties": {
+        "key": "117123",
+        "date": "Oct 22 2014  9:02PM",
+        "roadon": "2744 CAPITAL BLVD",
+        "roadat": "CAPITAL  BLVD",
+        "roadto": "BRENTWOOD RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6513,
+          35.8967
+        ]
+      },
+      "properties": {
+        "key": "117019",
+        "date": "Oct 21 2014  9:28AM",
+        "roadon": "8609 SIX FORKS RD",
+        "roadat": "SIX FORKS RD",
+        "roadto": "OLD LEAD MINE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5862,
+          35.8534
+        ]
+      },
+      "properties": {
+        "key": "116953",
+        "date": "Oct 20 2014  9:54AM",
+        "roadon": "GREEN RD",
+        "roadat": "SPRING  FOREST RD",
+        "roadto": "MILLBROOK  RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5596,
+          35.8939
+        ]
+      },
+      "properties": {
+        "key": "117284",
+        "date": "Oct 20 2014  6:39AM",
+        "roadon": "8401 CAPITAL BLVD",
+        "roadat": "CAPITAL HILLS DR",
+        "roadto": "CAPITAL  BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7088,
+          35.802
+        ]
+      },
+      "properties": {
+        "key": "116935",
+        "date": "Oct 18 2014  7:25PM",
+        "roadon": "WEST CHASE BLVD",
+        "roadat": "BLUE RIDGE RD",
+        "roadto": "STADIUM DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7834,
+          35.9075
+        ]
+      },
+      "properties": {
+        "key": "116744",
+        "date": "Oct 17 2014  1:42PM",
+        "roadon": "BRIER CREEK PKWY",
+        "roadat": "MACAW ST",
+        "roadto": "ARCO CORPORATE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6825,
+          35.7482
+        ]
+      },
+      "properties": {
+        "key": "116722",
+        "date": "Oct 17 2014  7:09AM",
+        "roadon": "LAUREL FALLS LN",
+        "roadat": "ALDER RIDGE LN",
+        "roadto": "BEECH GAP CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651,
+          35.7886
+        ]
+      },
+      "properties": {
+        "key": "116297",
+        "date": "Oct 10 2014  9:44PM",
+        "roadon": "ST MARY'S ST",
+        "roadat": "W PEACE ST",
+        "roadto": "W JOHNSON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6123,
+          35.7545
+        ]
+      },
+      "properties": {
+        "key": "116263",
+        "date": "Oct 10 2014  3:49PM",
+        "roadon": "ROCK  QUARRY RD",
+        "roadat": "CROSS LINK RD",
+        "roadto": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.625,
+          35.8178
+        ]
+      },
+      "properties": {
+        "key": "116101",
+        "date": "Oct  8 2014 10:39AM",
+        "roadon": "RUCKER ST",
+        "roadat": "WAKE FOREST RD",
+        "roadto": "SIX FORKS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6,
+          35.763
+        ]
+      },
+      "properties": {
+        "key": "115761",
+        "date": "Oct  2 2014 11:13PM",
+        "roadon": "ROSE LN",
+        "roadat": "GREYSON ST",
+        "roadto": "JIMMY CARTER WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.558,
+          35.94
+        ]
+      },
+      "properties": {
+        "key": "115749",
+        "date": "Oct  1 2014  5:00PM",
+        "roadon": "WAKEFIELD PINES DR",
+        "roadat": "SPRUCE TREE WAY",
+        "roadto": "FALLS OF NEUSE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6599,
+          35.7909
+        ]
+      },
+      "properties": {
+        "key": "115412",
+        "date": "Sep 26 2014  3:17PM",
+        "roadon": "CAMERON ST",
+        "roadat": "WOODBURN RD",
+        "roadto": "DANIELS ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6375,
+          35.7609
+        ]
+      },
+      "properties": {
+        "key": "115278",
+        "date": "Sep 24 2014  8:58PM",
+        "roadon": "S BLOUNT ST",
+        "roadat": "HOKE ST",
+        "roadto": "CITY FARM RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.596,
+          35.819
+        ]
+      },
+      "properties": {
+        "key": "116249",
+        "date": "Sep 20 2014 10:12PM",
+        "roadon": "CAPITAL BLVD",
+        "roadat": "BRENTWOOD RD",
+        "roadto": "HIGHWOODS  BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5663,
+          35.861
+        ]
+      },
+      "properties": {
+        "key": "114997",
+        "date": "Sep 20 2014 10:22AM",
+        "roadon": "KNIGHTSBRIDGE WAY",
+        "roadat": "BELINGTON CT",
+        "roadto": "EASTHAMPTON DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5737,
+          35.8257
+        ]
+      },
+      "properties": {
+        "key": "115064",
+        "date": "Sep 19 2014 11:20AM",
+        "roadon": "MEMORY LANE",
+        "roadat": "3817 MEMORY LN",
+        "roadto": "N NEW HOPE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.693,
+          35.7917
+        ]
+      },
+      "properties": {
+        "key": "114890",
+        "date": "Sep 17 2014  6:13PM",
+        "roadon": "3037 WOODS PL",
+        "roadat": "LIGON ST",
+        "roadto": "WOODS PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6128,
+          35.7799
+        ]
+      },
+      "properties": {
+        "key": "114798",
+        "date": "Sep 17 2014  7:23AM",
+        "roadon": "NEW  BERN AVE",
+        "roadat": "RALEIGH BLVD",
+        "roadto": "N KING CHARLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65,
+          35.73
+        ]
+      },
+      "properties": {
+        "key": "114722",
+        "date": "Sep 15 2014  9:55PM",
+        "roadon": "WILMINGTON ST",
+        "roadat": "TRYON RD",
+        "roadto": "CHAPANOAKE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.593,
+          35.866
+        ]
+      },
+      "properties": {
+        "key": "114763",
+        "date": "Sep 15 2014  4:02PM",
+        "roadon": "2500 TORQUAY CROSSING",
+        "roadat": "MIRKIRK CROSSING",
+        "roadto": "ABSHIRE CROSSING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6096,
+          35.7971
+        ]
+      },
+      "properties": {
+        "key": "115163",
+        "date": "Sep 14 2014  2:26AM",
+        "roadon": "N RALEIGH  BLVD",
+        "roadat": "MILLBANK ST",
+        "roadto": "CANTWELL CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6493,
+          35.748
+        ]
+      },
+      "properties": {
+        "key": "114615",
+        "date": "Sep 13 2014  1:48PM",
+        "roadon": "2604 S SAUNDERS ST",
+        "roadat": "PECAN RD",
+        "roadto": "ILEAGNES ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6436,
+          35.777
+        ]
+      },
+      "properties": {
+        "key": "114444",
+        "date": "Sep 10 2014  6:20PM",
+        "roadon": "S DAWSON ST",
+        "roadat": "W MARTIN ST",
+        "roadto": "W DAVIE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5581,
+          35.8547
+        ]
+      },
+      "properties": {
+        "key": "114385",
+        "date": "Sep  8 2014 11:26PM",
+        "roadon": "5621 LOUISBURG RD",
+        "roadat": "SWEET SHADE TRL",
+        "roadto": "SPRING FOREST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5844,
+          35.7832
+        ]
+      },
+      "properties": {
+        "key": "114147",
+        "date": "Sep  6 2014  1:05AM",
+        "roadon": "BATTERY DR",
+        "roadat": "POOLE  RD",
+        "roadto": "HARGETT ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5958,
+          35.8191
+        ]
+      },
+      "properties": {
+        "key": "114060",
+        "date": "Sep  4 2014  9:50PM",
+        "roadon": "CAPITAL BLVD",
+        "roadat": "OLD TRAWICK RD",
+        "roadto": "BRENTWOOD RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.579,
+          35.844
+        ]
+      },
+      "properties": {
+        "key": "114100",
+        "date": "Sep  3 2014  8:04PM",
+        "roadon": "CAPITAL  BLVD",
+        "roadat": "CALVARY DR",
+        "roadto": "N NEW HOPE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6491,
+          35.7446
+        ]
+      },
+      "properties": {
+        "key": "113850",
+        "date": "Aug 30 2014  9:23PM",
+        "roadon": "2708 S SAUNDERS ST",
+        "roadat": "ILEAGNES RD",
+        "roadto": "FENWICK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.541,
+          35.849
+        ]
+      },
+      "properties": {
+        "key": "113640",
+        "date": "Aug 28 2014  9:10AM",
+        "roadon": "HOLLY RIDGE FARM RD",
+        "roadat": "BRANDED IRON LN",
+        "roadto": "STONE STATION DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6473,
+          35.7861
+        ]
+      },
+      "properties": {
+        "key": "113618",
+        "date": "Aug 27 2014  8:10PM",
+        "roadon": "GLENWOOD AVE",
+        "roadat": "TUCKER ST",
+        "roadto": "W NORTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.602,
+          35.789
+        ]
+      },
+      "properties": {
+        "key": "113517",
+        "date": "Aug 26 2014  3:13PM",
+        "roadon": "MILBURNIE RD",
+        "roadat": "CULPEPPER LN",
+        "roadto": "HIGHGATE PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6371,
+          35.8718
+        ]
+      },
+      "properties": {
+        "key": "113491",
+        "date": "Aug 26 2014  8:01AM",
+        "roadon": "WESTBROOK RD",
+        "roadat": "VANCOUVER LN",
+        "roadto": "RIDGECROFT LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5794,
+          35.8442
+        ]
+      },
+      "properties": {
+        "key": "113509",
+        "date": "Aug 25 2014 10:30AM",
+        "roadon": "CALVARY DR",
+        "roadat": "CAPITAL BLVD",
+        "roadto": "LAKE RIDGE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6899,
+          35.7827
+        ]
+      },
+      "properties": {
+        "key": "113380",
+        "date": "Aug 23 2014 11:30PM",
+        "roadon": "CLANTON ST",
+        "roadat": "NEELEY ST",
+        "roadto": "WESTERN  BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6532,
+          35.7959
+        ]
+      },
+      "properties": {
+        "key": "113168",
+        "date": "Aug 20 2014  5:06PM",
+        "roadon": "WADE AVE",
+        "roadat": "ST MARYS ST",
+        "roadto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.628,
+          35.8934
+        ]
+      },
+      "properties": {
+        "key": "112984",
+        "date": "Aug 17 2014  5:14PM",
+        "roadon": "7901 FALLS OF NEUSE RD",
+        "roadat": "STRICKLAND RD",
+        "roadto": "BAYBUSH DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6,
+          35.904
+        ]
+      },
+      "properties": {
+        "key": "112991",
+        "date": "Aug 15 2014 11:05AM",
+        "roadon": "9600 FALLS OF NEUSE RD",
+        "roadat": "DURANT RD",
+        "roadto": "MORROCROFT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5616,
+          35.7992
+        ]
+      },
+      "properties": {
+        "key": "112690",
+        "date": "Aug 12 2014  9:11PM",
+        "roadon": "4431 NEW BERN AVE",
+        "roadat": "N NEW HOPE RD",
+        "roadto": "HEDINGHAM BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6209,
+          35.8679
+        ]
+      },
+      "properties": {
+        "key": "112493",
+        "date": "Aug  9 2014  1:39PM",
+        "roadon": "FALLS OF NEUSE RD",
+        "roadat": "SPRING FOREST RD",
+        "roadto": "SPRINGFIELD COMMONS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6036,
+          35.7799
+        ]
+      },
+      "properties": {
+        "key": "112517",
+        "date": "Aug  9 2014  6:30AM",
+        "roadon": "NEW BERN AVE",
+        "roadat": "CLAREDON CRES",
+        "roadto": "LORD BERKLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5419,
+          35.74
+        ]
+      },
+      "properties": {
+        "key": "112476",
+        "date": "Aug  9 2014  5:58AM",
+        "roadon": "MARCONY WAY",
+        "roadat": "LOYLANE CT",
+        "roadto": "BERKELEY LAKE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6295,
+          35.7539
+        ]
+      },
+      "properties": {
+        "key": "112441",
+        "date": "Aug  8 2014  2:08PM",
+        "roadon": "CALLOWAY DR",
+        "roadat": "GARNER RD",
+        "roadto": "CHARLES ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6143,
+          35.7791
+        ]
+      },
+      "properties": {
+        "key": "112227",
+        "date": "Aug  3 2014  9:31PM",
+        "roadon": "STARR STREET",
+        "roadat": "NEW BERN AVE",
+        "roadto": "POOLE ROAD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.618,
+          35.779
+        ]
+      },
+      "properties": {
+        "key": "112197",
+        "date": "Aug  2 2014 11:21PM",
+        "roadon": "NEW  BERN AVE",
+        "roadat": "UNKNOWN",
+        "roadto": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5775,
+          35.798
+        ]
+      },
+      "properties": {
+        "key": "112133",
+        "date": "Aug  1 2014  8:55PM",
+        "roadon": "3701 NEW BERN AVE",
+        "roadat": "TRAWICK RD",
+        "roadto": "PLAINVIEW DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5798,
+          35.844
+        ]
+      },
+      "properties": {
+        "key": "111960",
+        "date": "Jul 30 2014  2:44PM",
+        "roadon": "CAPITAL  BLVD",
+        "roadat": "CALVARY DR",
+        "roadto": "LOUISBURG RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.584,
+          35.846
+        ]
+      },
+      "properties": {
+        "key": "111947",
+        "date": "Jul 30 2014  1:15PM",
+        "roadon": "3001 CALVARY DR",
+        "roadat": "CALVARY DR",
+        "roadto": "MILLBROOK  RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6793,
+          35.8865
+        ]
+      },
+      "properties": {
+        "key": "111915",
+        "date": "Jul 29 2014  1:00PM",
+        "roadon": "STONEHENGE DR",
+        "roadat": "CREEDMOOR RD",
+        "roadto": "SAWMILL RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.643,
+          35.774
+        ]
+      },
+      "properties": {
+        "key": "111866",
+        "date": "Jul 28 2014  6:08PM",
+        "roadon": "CABARRAS ST",
+        "roadat": "S DAWSON  ST",
+        "roadto": "S WEST ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6123,
+          35.7552
+        ]
+      },
+      "properties": {
+        "key": "111889",
+        "date": "Jul 28 2014 11:15AM",
+        "roadon": "ROCK QUARRY ROAD",
+        "roadat": "CROSSLINK ROAD",
+        "roadto": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.581,
+          35.852
+        ]
+      },
+      "properties": {
+        "key": "111829",
+        "date": "Jul 27 2014  9:17PM",
+        "roadon": "4821 CAPITAL BLVD",
+        "roadat": "SPRING  FOREST RD",
+        "roadto": "E MILLBROOK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649,
+          35.7487
+        ]
+      },
+      "properties": {
+        "key": "111671",
+        "date": "Jul 24 2014  7:58PM",
+        "roadon": "S SAUNDERS ST",
+        "roadat": "PECAN RD",
+        "roadto": "PARKLAND RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6451,
+          35.7314
+        ]
+      },
+      "properties": {
+        "key": "111581",
+        "date": "Jul 23 2014  7:59AM",
+        "roadon": "TRYON RD",
+        "roadat": "DURHAM DR",
+        "roadto": "S WILMINGTON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6489,
+          35.7492
+        ]
+      },
+      "properties": {
+        "key": "111596",
+        "date": "Jul 22 2014  9:05PM",
+        "roadon": "S SAUNDERS STREET",
+        "roadat": "PECAN ROAD",
+        "roadto": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6366,
+          35.7779
+        ]
+      },
+      "properties": {
+        "key": "111451",
+        "date": "Jul 20 2014  3:10PM",
+        "roadon": "S BLOUNT ST",
+        "roadat": "E HARGETT ST",
+        "roadto": "E MARTIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.578,
+          35.8653
+        ]
+      },
+      "properties": {
+        "key": "111436",
+        "date": "Jul 20 2014  2:33PM",
+        "roadon": "3501 SUMNER BLVD",
+        "roadat": "TRIANGLE TOWN BLVD",
+        "roadto": "CAPITAL BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.585,
+          35.829
+        ]
+      },
+      "properties": {
+        "key": "111449",
+        "date": "Jul 18 2014  4:20PM",
+        "roadon": "3609 CAPITAL BLVD",
+        "roadat": "CAPITAL BLV D",
+        "roadto": "PINE KNOLL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64,
+          35.77
+        ]
+      },
+      "properties": {
+        "key": "111223",
+        "date": "Jul 16 2014  1:34PM",
+        "roadon": "MCDDOWELL ST",
+        "roadat": "DAVIE ST",
+        "roadto": "MARTIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6263,
+          35.8203
+        ]
+      },
+      "properties": {
+        "key": "111154",
+        "date": "Jul 15 2014  1:30PM",
+        "roadon": "404 E SIX FORKS RD",
+        "roadat": "E SIX FORKS RD",
+        "roadto": "RUCKER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6473,
+          35.7868
+        ]
+      },
+      "properties": {
+        "key": "111034",
+        "date": "Jul 12 2014 11:55PM",
+        "roadon": "GLENWOOD AVE",
+        "roadat": "JOHNSON ST",
+        "roadto": "TUCKER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6412,
+          35.8561
+        ]
+      },
+      "properties": {
+        "key": "111028",
+        "date": "Jul 12 2014  6:32PM",
+        "roadon": "SIX FORKS RD",
+        "roadat": "E MILLBROOK RD",
+        "roadto": "LOFT LANE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6227,
+          35.7664
+        ]
+      },
+      "properties": {
+        "key": "110925",
+        "date": "Jul 10 2014  7:54PM",
+        "roadon": "COLEMAN STREET",
+        "roadat": "BRAGG STREET",
+        "roadto": "MARTIN LUTHER KING JR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5771,
+          35.87
+        ]
+      },
+      "properties": {
+        "key": "110647",
+        "date": "Jul  5 2014  5:34PM",
+        "roadon": "OLD WAKE  FOREST RD",
+        "roadat": "TOWN CENTER DR",
+        "roadto": "TRIANGLE TOWN BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6294,
+          35.7384
+        ]
+      },
+      "properties": {
+        "key": "110633",
+        "date": "Jul  5 2014  2:32PM",
+        "roadon": "GARNER RD",
+        "roadat": "GROVE CREEK LN",
+        "roadto": "WILSON ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5623,
+          35.7997
+        ]
+      },
+      "properties": {
+        "key": "110172",
+        "date": "Jun 26 2014  7:14PM",
+        "roadon": "1450 N NEW HOPE RD",
+        "roadat": "N NEW HOPE RD",
+        "roadto": "CORPERATION PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6953,
+          35.8162
+        ]
+      },
+      "properties": {
+        "key": "110167",
+        "date": "Jun 25 2014 11:00PM",
+        "roadon": "GLENWOOD AVE",
+        "roadat": "OBERLIN RD",
+        "roadto": "GLENANNEVE PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.617,
+          35.768
+        ]
+      },
+      "properties": {
+        "key": "109958",
+        "date": "Jun 23 2014  8:03AM",
+        "roadon": "MLK JR BLVD",
+        "roadat": "ROCK QUARRY RD",
+        "roadto": "S RALEIGH BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6417,
+          35.7828
+        ]
+      },
+      "properties": {
+        "key": "109758",
+        "date": "Jun 19 2014  2:09PM",
+        "roadon": "MCDOWELL ST",
+        "roadat": "JONES ST",
+        "roadto": "LANE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6484,
+          35.7863
+        ]
+      },
+      "properties": {
+        "key": "109657",
+        "date": "Jun 17 2014  1:51PM",
+        "roadon": "W JOHNSON ST",
+        "roadat": "GLENWOOD AVE",
+        "roadto": "N  BOYLAN AVE"
+      }
+    }
+  ]
+}
