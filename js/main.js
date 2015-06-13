@@ -6,7 +6,6 @@ function getCrashes (geom) {
 	});	
 	query.within(geom);
 	query.run(function (error, featureCollection) {
-		sGroup.clearLayers();
 		$("#crashes").html('<h1>' + featureCollection.features.length + '</h1>');
 		$("#projects").html('<h1>0/0</h1>');
 		$("#reports").html('<h1>1</h1>');				
